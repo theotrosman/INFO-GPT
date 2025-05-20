@@ -1,4 +1,4 @@
-# 👑 [Rey del Labo GPT[(https://chatgpt.com/g/g-682c6cf33b348191b7f2e97f5c34a9fe-info-gpt)
+# 👑 [Rey del Labo GPT](https://chatgpt.com/g/g-682c6cf33b348191b7f2e97f5c34a9fe-info-gpt)
 
 **Rey del Labo GPT** es un asistente virtual personalizado creado por [Theo Trosman](https://github.com/theotrosman) para potenciar su aprendizaje en la especialización de Informática en ORT Yatay. Fue entrenado con un propósito claro: ayudar en tareas, proyectos, ideas y desarrollo profesional.
 
